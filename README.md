@@ -4,7 +4,7 @@
  
  Age: 20 
  
- Interested in: Natural Sciences, Engineering, Computer Programming, Hacking Games.
+ Interested in: Natural Sciences, Engineering, Computer Programming, Game Hacking.
  
  Education: Sophomore at İstanbul University, pursuing my Bachelor's Degree.
  
