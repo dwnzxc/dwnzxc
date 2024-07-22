@@ -1,13 +1,11 @@
- Welcome to my GitHub profile!
- 
- Name: Deniz 
- 
- Age: 21
- 
- Interested in: Natural Sciences, Engineering, Computer Programming, Game Hacking.
- 
- Education: Juniors at İstanbul University, pursuing my Bachelor's Degree.
- 
- Currently Learning: C++ Programming. 
+Welcome to my GitHub profile!
 
- 
+Name: Deniz
+
+Age: 21
+
+Interests: Natural Sciences, Engineering, Computer Programming, Game Hacking.
+
+Education: Junior at İstanbul University, pursuing a Bachelor's Degree in Physics and Computer Programming.
+
+Currently Learning: C++ Programming.
