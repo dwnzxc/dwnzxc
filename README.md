@@ -6,11 +6,8 @@
  
  Interested in: Natural Sciences, Engineering, Computer Programming, Game Hacking.
  
- Education: Sophomore at İstanbul University, pursuing my Bachelor's Degree.
- 
- Currently Working on: Improving [Segregation](https://github.com/qwertyuiop3/Segregation)
+ Education: Juniors at İstanbul University, pursuing my Bachelor's Degree.
  
  Currently Learning: C++ Programming. 
- 
- To Learn: Web Development. 
+
  
